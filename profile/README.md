@@ -7,18 +7,22 @@ groups as a voluntary commitment.
 The given repositories have been created by committees and working groups and serve as an aid for our members and interested persons to support them 
 in their work with machine learning methods and data science issues in an actuarial context.
 
-# Working groups
+# Working group results
 
-- [Big Data in Life insurance](https://github.com/DeutscheAktuarvereinigung/Deriving-NHANES-data-set-CDC-for-mortality-analysis) script to create a 
+- [eXplainableAI](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_eXplainableAI_Notebooks)  Notebooks with toy examples, reimplementations, simulation studies and SCR use case 
+- [Big Data in Life insurance](https://github.com/DeutscheAktuarvereinigung/Deriving-NHANES-data-set-CDC-for-mortality-analysis) (with the Life section) script to create a 
 data set for mortality analysis from the NHANES data set  
-- [eXplainableAI](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_eXplainableAI_Notebooks)  
+- [Modelling of Cyber risks](https://github.com/DeutscheAktuarvereinigung/Use-Case-zur-Modellierung-von-Cyberrisiken)  (with the General insurance section) 
 
 # Use Cases
 
-- [Use case collection](https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases) kaggle Notebooks by Friedrich Loser (floser)  
-- [Modelling of Cyber risks](https://github.com/DeutscheAktuarvereinigung/Use-Case-zur-Modellierung-von-Cyberrisiken)  
-- [Mortality modelling](https://github.com/DeutscheAktuarvereinigung/Mortality_Modeling)  
-- [Claim frequency modelling](https://github.com/DeutscheAktuarvereinigung/claim_frequency)  
+See [here](https://aktuar.de/en/practice-areas/data-science/use-cases/Pages/default.aspx) for more detailed descriptions.
+
+1. [Claim frequency modeling](https://github.com/DeutscheAktuarvereinigung/claim_frequency)  
+2. [Insurance SCR data](https://github.com/DeutscheAktuarvereinigung/insurance_scr_data)
+3. [Mortality modeling](https://github.com/DeutscheAktuarvereinigung/Mortality_Modeling)  
+4. [Forecasting rare events](https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases) on credit scoring 
+
 
 # Data Science Challenges
 
@@ -30,7 +34,11 @@ data set for mortality analysis from the NHANES data set
 # Training
 
 - [Python for Actuaries](https://github.com/DeutscheAktuarvereinigung/Python_fuer_Aktuare)
-- Coming soon: Winning notebooks of 2024 CADS Immersion class on house price prediction for fire insurance
+
+
+# Best Notebook Awards 
+- Coming soon: [Winning notebooks of 2024 CADS Immersion class](https://github.com/DeutscheAktuarvereinigung/2024_CADS_Immersion_Best_Notebooks) on house price prediction for fire insurance
+
 
 # Disclaimer
 
