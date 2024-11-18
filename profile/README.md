@@ -37,7 +37,7 @@ See [here](https://aktuar.de/en/practice-areas/data-science/use-cases/Pages/defa
 
 
 # Best Notebook Awards 
-- Coming soon: [Winning notebooks of 2024 CADS Immersion class](https://github.com/DeutscheAktuarvereinigung/2024_CADS_Immersion_Best_Notebooks) on house price prediction for fire insurance
+- [Winning notebooks of 2024 CADS Immersion class](https://github.com/DeutscheAktuarvereinigung/2024_CADS_Immersion_Best_Notebooks) on house price prediction for fire insurance
 
 
 # Disclaimer
