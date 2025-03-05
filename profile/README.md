@@ -1,4 +1,4 @@
-# Deutsche Aktuarvereinigung
+![Banner Deutsche Aktuarvereinigung](250304_Header_024.png)
 
 The German Association of Actuaries (Deutsche Aktuarvereinigung.V., DAV) is the professional representation of all actuaries in Germany. 
 It was founded in 1993 and has more than 5,400 members today. More than 700 members are involved in thirteen committees and in over 60 working 
