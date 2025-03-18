@@ -1,6 +1,6 @@
 ![Banner Deutsche Aktuarvereinigung](250306_GitHub_Header.png)
 
-The German Association of Actuaries (Deutsche Aktuarvereinigung.V., DAV) is the professional representation of all actuaries in Germany. 
+The German Association of Actuaries (Deutsche Aktuarvereinigung e.V., DAV) is the professional representation of all actuaries in Germany. 
 It was founded in 1993 and has more than 6,700 members today. More than 900 members are involved in thirteen committees and in over 60 working 
 groups as a voluntary commitment.
 
@@ -9,6 +9,7 @@ in their work with machine learning methods and data science issues in an actuar
 
 # Working group results
 
+- [Avoidance of Discrimination and Bias in Modeling](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_Bias_Discrimination_Notebooks/) Notebooks with tools to assess fairness or improve it  
 - [eXplainableAI](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_eXplainableAI_Notebooks)  Notebooks with toy examples, reimplementations, simulation studies and SCR use case 
 - [Big Data in Life insurance](https://github.com/DeutscheAktuarvereinigung/Deriving-NHANES-data-set-CDC-for-mortality-analysis) (with the Life section) script to create a 
 data set for mortality analysis from the NHANES data set  
