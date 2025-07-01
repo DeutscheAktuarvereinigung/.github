@@ -13,7 +13,8 @@ in their work with machine learning methods and data science issues in an actuar
 - [eXplainableAI](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_eXplainableAI_Notebooks)  Notebooks with toy examples, reimplementations, simulation studies and SCR use case 
 - [Big Data in Life insurance](https://github.com/DeutscheAktuarvereinigung/Deriving-NHANES-data-set-CDC-for-mortality-analysis) (with the Life section) script to create a 
 data set for mortality analysis from the NHANES data set  
-- [Modelling of Cyber risks](https://github.com/DeutscheAktuarvereinigung/Use-Case-zur-Modellierung-von-Cyberrisiken)  (with the General insurance section) 
+- [Modelling of Cyber risks](https://github.com/DeutscheAktuarvereinigung/Use-Case-zur-Modellierung-von-Cyberrisiken)  (with the General insurance section)
+- [Migration of life insurance portfolios](https://github.com/DeutscheAktuarvereinigung/portxlpy) (with the Life section) Porting Excel insurance tariff calculations to Python
 
 # Use Cases
 
