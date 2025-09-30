@@ -42,8 +42,6 @@ See [here](https://aktuar.de/en/practice-areas/data-science/use-cases/Pages/defa
 - [Winning notebooks of 2024 CADS Immersion class](https://github.com/DeutscheAktuarvereinigung/2024_CADS_Immersion_Best_Notebooks) on house price prediction for fire insurance
 - [Winning notebooks of 2025 CADS Completion class](https://github.com/DeutscheAktuarvereinigung/2025_CADS_Completion_Best_Notebooks) on aspects of discrimination-free-pricing
 
-
-
 # Disclaimer
 
 Please note that the repositories provided on GitHub are published by the DAV. The content of linked websites is the sole responsibility 
