@@ -15,6 +15,7 @@ in their work with machine learning methods and data science issues in an actuar
 data set for mortality analysis from the NHANES data set  
 - [Modelling of Cyber risks](https://github.com/DeutscheAktuarvereinigung/Use-Case-zur-Modellierung-von-Cyberrisiken)  (with the General insurance section)
 - [Migration of life insurance portfolios](https://github.com/DeutscheAktuarvereinigung/portxlpy) (with the Life section) Porting Excel insurance tariff calculations to Python
+- [Synthetic data](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_Synthetic_Data) Notebooks, tools, etc. 
 
 # Use Cases
 
