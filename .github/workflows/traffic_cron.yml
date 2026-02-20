@@ -26,7 +26,7 @@ jobs:
       - name: Run Script
         working-directory: ./traffic
         env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          PAT_TOKEN: ${{ secrets.Traffic_PAT_TOKEN }}
         run: python skript.py
 
       - name: Commit and Push CSV
