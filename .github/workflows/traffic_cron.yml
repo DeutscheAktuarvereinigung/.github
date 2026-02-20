@@ -2,7 +2,7 @@ name: Fetch GitHub Traffic
 
 on:
   schedule:
-    - cron: '0 * * * *' # cron: 'Minuten Stunden Tag_des_Monats Monat Wochentag', jew. mit Komma, Bindestrich, /=Intervall
+    - cron: '0 2 * * *' # cron: 'Minuten Stunden Tag_des_Monats Monat Wochentag', jew. mit Komma, Bindestrich, /=Intervall
   workflow_dispatch:
 
 permissions:
