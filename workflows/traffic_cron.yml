@@ -1,0 +1,38 @@
+name: Fetch GitHub Traffic
+
+on:
+  schedule:
+    - cron: '0 * * * *' # cron: 'Minuten Stunden Tag_des_Monats Monat Wochentag', jew. mit Komma, Bindestrich, /=Intervall
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-traffic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests pandas
+
+      - name: Run Script
+        working-directory: ./traffic
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: python skript.py
+
+      - name: Commit and Push CSV
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add traffic/github_traffic_dav_*.csv
+          git commit -m "Add traffic data for $(date +'%Y-%m-%d')" || exit 0
+          git push
