@@ -15,8 +15,9 @@ in their work with machine learning methods and data science issues in an actuar
 data set for mortality analysis from the NHANES data set  
 - [Modelling of Cyber risks](https://github.com/DeutscheAktuarvereinigung/Use-Case-zur-Modellierung-von-Cyberrisiken)  (with the General insurance section)
 - [Migration of life insurance portfolios](https://github.com/DeutscheAktuarvereinigung/portxlpy) (with the Life section) Porting Excel insurance tariff calculations to Python
-- [Synthetic data](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_Synthetic_Data) Notebooks, tools, etc. :sparkles: :new: :sparkles: 
-- [Anonymization Pseudonymization](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_Anonymization_Pseudonymization) Use cases notebooks :sparkles: :new: :sparkles: 
+- [Synthetic data](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_Synthetic_Data) Notebooks, tools, etc. 
+- [Anonymization Pseudonymization](https://github.com/DeutscheAktuarvereinigung/WorkingGroup_Anonymization_Pseudonymization) Use cases notebooks  
+
 
 # Use Cases
 
@@ -37,8 +38,8 @@ See [here](https://aktuar.de/en/practice-areas/data-science/use-cases/Pages/defa
 
 # Training
 
-- [Python for Actuaries](https://github.com/DeutscheAktuarvereinigung/Python_fuer_Aktuare)
-
+- [Python for Actuaries](https://github.com/DeutscheAktuarvereinigung/Python_fuer_Aktuare)  
+- [GenAI Beyond the Basics](https://github.com/DeutscheAktuarvereinigung/GenAI_Beyond_the_Basics)  :sparkles: :new: :sparkles: 
 
 # Best Notebook Awards 
 - [Winning notebooks of 2024 CADS Immersion class](https://github.com/DeutscheAktuarvereinigung/2024_CADS_Immersion_Best_Notebooks) on house price prediction for fire insurance
